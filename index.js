@@ -93,5 +93,5 @@ function storePassword(name,password1, password2){
 }
 
 
-storePassword("John", "Pass1234", "Pass1234")
-storePassword("John", "Pass123", "Pass12345")
+storePassword("Cess", "Pass134", "Pass134")
+storePassword("Ces", "Pass123", "Pass12345")
